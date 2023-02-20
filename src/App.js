@@ -1,7 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
 import Home from './components/home/home';
-
 function App() {
   return (
     <div>
@@ -9,5 +7,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
